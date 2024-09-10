@@ -85,7 +85,7 @@ def clear():
 
 import os
 
-folder_name = "/sdcard/Aqua"
+folder_name = "/sdcard/"
 file_names = ["toka.txt", "tokaid.txt", "tokp.txt", "tokpid.txt", "cok.txt", "cokid.txt"]
 
 # Check if the folder exists, if not, create it
